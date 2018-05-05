@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="projection.xls" type="text/xls"?>
+<!DOCTYPE plex SYSTEM "projections.dtd">
+<plex>
+  <projections>
+    <projection film_id="id_2510709" titre="Ocean's Twelve">
+      <salle taille="">Salle (No: Flon 1)</salle>
+      <date_heure format="">Mon Apr 30 03:01:33 CEST 2018</date_heure>
+    </projection>
+    <projection film_id="id_2053403" titre="Casino Royale">
+      <salle taille="">Salle (No: Flon 1)</salle>
+      <date_heure format="">Tue Apr 17 18:55:04 CEST 2018</date_heure>
+    </projection>
+    <projection film_id="id_2235127" titre="GoldenEye">
+      <salle taille="">Salle (No: Flon 1)</salle>
+      <date_heure format="">Thu Apr 05 12:55:13 CEST 2018</date_heure>
+    </projection>
+  </projections>
+  <films>
+    <film no="id_2510709">
+      <titre>Ocean's Twelve</titre>
+      <duree format="">125</duree>
+      <synopsys>After successfully stealing 160 million from ruthless casino owner Terry Benedict, Danny Ocean and his 10 cohorts think they're free and clear. But one day Terry Benedict pays each of them a visit but instead of doing something to them, he tells them they have 2 weeks. When they get together they deduce that Benedict wants them to pay him back what they took with interest. Knowing they can't do a job in the U.S. they decide to go to Europe. Danny's number 2 Rusty decides to go to Amsterdam cause there's a guy there who can give them jobs but Rusty doesn't tell them that he has another reason for wanting to go there. When they try to pull the job they were given, they discover that someone else has pulled the job. They deduce he was the one who told Benedict who they are. Later Europol operative Isabel Lahiri investigates and upon seeing how they tried to do it, shows up at their door. It seems she and Rusty "know" each other, and he's been following her. While she chooses not to arrest them, she warns them not to do anything. She also tells them who the man is who told Benedict. When they find him, they learn that he feels offended that his mentor who is a great thief thinks they're better than him so he challenges them to steal something and if they do he'll give them the money they need to pay Benedict. So the challenge begins but they also have to contend with Isabel who is keeping an eye on them.</synopsys>
+      <photo url="#NoPhotoExist" />
+      <critiques />
+    </film>
+    <film no="id_2053403">
+      <titre>Casino Royale</titre>
+      <duree format="">144</duree>
+      <synopsys>Casino Royale introduces James Bond before he holds his license to kill. But Bond is no less dangerous, and with two professional assassinations in quick succession, he is elevated to '00' status. Bond's first 007 mission takes him to Uganda where he is to spy on a terrorist, Mollaka. Not everything goes to plan and Bond decides to investigate, independently of MI6, in order to track down the rest of the terrorist cell. Following a lead to the Bahamas, he encounters Dimitrios and his girlfriend, Solange. He learns that Dimitrios is involved with Le Chiffre, banker to the world's terrorist organizations. Secret Service intelligence reveals that Le Chiffre is planning to raise money in a high-stakes poker game in Montenegro at Le Casino Royale. MI6 assigns 007 to play against him, knowing that if Le Chiffre loses, it will destroy his organization. 'M' places Bond under the watchful eye of the beguiling Vesper Lynd. At first skeptical of what value Vesper can provide, Bond's interest in her deepens as they brave danger together and even torture at the hands of Le Chiffre. In Montenegro, Bond allies himself with Mathis MI6's local field agent, and Felix Leiter who is representing the interests of the CIA. The marathon game proceeds with dirty tricks and violence, raising the stakes beyond blood money and reaching a terrifying climax.</synopsys>
+      <photo url="#NoPhotoExist" />
+      <critiques>
+        <critique critiqueFilmId="id_5206" />
+      </critiques>
+    </film>
+    <film no="id_2235127">
+      <titre>GoldenEye</titre>
+      <duree format="">130</duree>
+      <synopsys>1986 - Soviet Russia has been arming international terrorists with chemical weapon technology, and a chemical weapons plant in the mountains is the target of James Bond and his closest compatriot, Alec Trevelyan. Infiltrating the compound, they are spotted and Alec is captured. When a ruthless Soviet officer, Oromov, executes Trevelyan, James pulls off a spectacular escape and succeeds in blowing up the compound. Now in 1995, he is assigned to tail former Red Air Force jet jockey Xenia Onatopp, who is working for a Russian crime syndicate known as Janus, but he is unable to stop her from stealing a powerful helicopter - a theft initially dismissed as a possibility by MI6's new leader, a woman who is a bureaucratic bean counter who, despite her acidic responses to grumbling from her ticked-off men, is having to learn her job as she goes, and who has to trust James Bond's instincts after a nuclear accident occurs over a Russian region housing the tracking station for a weapons satellite known as Goldeneye. James must track down the stolen gunship and all leads to a second Goldeneye system, and along the way he is horrified to find the true identity of the Janus syndicate, which leads to a spectacular running pursuit from the stolen gunship through a Soviet army prison to a wild street chase involving a tank and confrontation with a Soviet missile train, and eventually a showdown in the jungles of Cuba.</synopsys>
+      <photo url="#NoPhotoExist" />
+      <critiques>
+        <critique critiqueFilmId="id_5202" />
+      </critiques>
+    </film>
+  </films>
+  <acteurs>
+    <acteur acteurId="id_1893666">
+      <nom>Weintraub, Jerry</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sun Sep 26 00:00:00 CET 1937</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1594832">
+      <nom>Schwartz, Scott L.</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Jan 01 00:00:00 CET 16</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_610418">
+      <nom>Garcia, Andy</nom>
+      <nomNaissance>Menéndez, Andrés Arturo García</nomNaissance>
+      <biographie>As a youngster, Andres "Andy" Garcia dreamed of playing professional baseball. Born on the Island of Cuba, Garcia's family fled to Miami Beach, Florida in the United States of America following Fidel Castro's communist revolution. At Natilus Junior High School and later at Miami Beach Senior High School, Garcia excelled in baseball. In his senior year, illness prevented him from playing and he drifted into the drama department. He studied acting with 'Jay W. Jensen' (qv). Jensen was a South Florida legend, counting among his numerous students, 'Brett Ratner' (qv), 'Roy Firestone (I)' (qv), 'Mickey Rourke' (qv), and 'Luther Campbell' (qv). Following his positive high school experiences in acting, he continued his drama studies at Florida International University. From there he traveled to Hollywood, California to make his mark in movie-stardom. To his friends and fans in Miami Beach, Andy Garcia will always be remembered as a friendly, down-to-earth, all-around good guy.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Thu Apr 12 00:00:00 CET 1956</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_307437">
+      <nom>Cheadle, Don</nom>
+      <nomNaissance>Cheadle, Donald Frank</nomNaissance>
+      <biographie>Don Cheadle was born in Kansas City but moved throughout his childhood. He attended CalArts and earned his BA in Fine Arts. He auditioned for many roles, and won a part on the television series _"Fame" (1982)_ (qv). He was then cast in the 'John Irvin' (qv) film _Hamburger Hill (1987)_ (qv). He first became recognized in _Devil in a Blue Dress (1995)_ (qv), which won him the Best Supporting Actor Award from the Los Angeles Film Critics. Cheadle is a highly respected actor who has won many awards and continues to act on both television movies and features, as well as in theater productions. He lives in Los Angeles, California.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sun Nov 29 00:00:00 CET 1964</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_251636">
+      <nom>Caan, Scott</nom>
+      <nomNaissance>Caan, Scott Andrew</nomNaissance>
+      <biographie>Muscular, swaggering and tough, Scott Caan gives every indication of becoming a "man's-man" like his father, legendary actor 'James Caan (I)' (qv). While it is obvious that he admires tough method actors like 'Marlon Brando' (qv) and 'Sean Penn (I)' (qv), Scott also has a strong egalitarian streak, evidenced by his reasoning for baring his body in films. He is quoted as saying that originally only the women in the scene were to be nude, but that he felt it really sexist, so he stripped too.  Scott was born on August 23, 1976 in Los Angeles, California. He spent his childhood being shuttled between his parent's homes. His mom is actress and model 'Sheila Ryan (II)' (qv); the Caans divorced when Scott was a year old. He has an older half-sister, Tara, and three younger half-brothers: Alexander, Jacob, and James.  Self-desribed as a bad kid who was always getting into trouble, Scott initially steered clear of acting, opting to play sports instead. Scott benefited from his father's hands-on approach to child rearing; the elder Caan reportedly took a five-year hiatus to coach all of his son's little league teams. He also pursued his love of hip-hop by forming a group with his friend 'The Alchemist' (qv); as The Whooliganz, the duo made inroads on the music scene and signed an ill-fated contract with Tommy Boy Records.  It did not take long for Scott to appear in front of the camera; in 1995, he took roles in a couple independent films, _Aaron Gillespie Will Make You a Star (1995)_ (qv) and _A Boy Called Hate (1995)_ (qv). Critical of his performances, Scott enrolled at Playhouse West in Los Angeles to study acting. Roles in more indies followed, including _Bongwater (1997)_ (qv) and 'Gregg Araki' (qv)'s _Nowhere (1997)_ (qv).  His first major film was also a hit; he had a supporting role in _Enemy of the State (1998)_ (qv) for director 'Tony Scott (I)' (qv). He then appeared (in the buff) in _Varsity Blues (1999)_ (qv) as a wisecracking receiver. By now, Scott had built a reliable reputation for playing strong-minded characters with a sense of humor, exemplified by his work in movies such a _Boiler Room (2000)_ (qv), _Ready to Rumble (2000)_ (qv), and his second hit picture, _Gone in Sixty Seconds (2000)_ (qv).  Scott's star rose with a fun supporting turn in 'Steven Soderbergh' (qv)'s _Ocean's Eleven (2001)_ (qv) remake. At this time he had more indie turns in the films _American Outlaws (2001)_ (qv), _Novocaine (2001)_ (qv), and _Sonny (2002)_ (qv) - 'Nicolas Cage' (qv)'s directorial debut starring 'James Franco' (qv). Scott followed up with his own directorial outing, _Dallas 362 (2003)_ (qv).  Scott reprised his role as Turk Malloy in _Ocean's Twelve (2004)_ (qv), then took a supporting roles in two very different pictures: the sexy, ocean-bound thriller _Into the Blue (2005)_ (qv) and in 'Nicole Holofcener' (qv)'s indie comedy, _Friends with Money (2006)_ (qv). 2006 marked Caan's return to the director¹s chair, with _The Dog Problem (2006)_ (qv), and soon was back for _Ocean's Thirteen (2007)_ (qv).  Over the past few years, Scott made memorable appearances as a recurring character on _"Entourage" (2004)_ (qv). Currently, he has a starring role in the remake of the TV series _"Hawaii Five-0" (2010)_ (qv).  Scott has also established himself as a photographer, having been mentored in the medium by cinematographer 'Phil Parmet' (qv). In 2009, he published his book, Scott Caan Photographs, Vol. 1.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Mon Aug 23 00:00:00 CET 1976</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_536191">
+      <nom>Faris, Nasser</nom>
+      <nomNaissance />
+      <biographie>Nasser Faris was born in Cairo, Egypt. He grew up in Los Angeles, CA and has lived in Cairo, Chicago and Washington, DC. He studied political science and economics at Loyola University, Chicago and graduated from Georgetown University with a degree in international relations and contemporary Arab studies.  After graduation, Faris worked for the U.S. House of Representatives and began writing and publishing professionally as a free-lance journalist and writer. He studied photography at the Smithsonian Institute and has been a photographer ever since, specializing in black and white photography. He curated a number of photography exhibits in and around the Washington, DC area.  Although Faris has been acting throughout his life in theater, he began studying and acting professionally in Washington, DC and Baltimore, MD. Faris studied acting at the avant-garde Wooly Mammoth Theater and the Shakespeare Theater in Washington, DC, the Herbert-Berghoff Studios in New York and the Beverly Hills Playhouse and the Groundlings in Los Angeles.  Faris' acting, writing and producing resume' spans over fourteen years. He has been extremely fortunate in working with some of the most talented, creative and renowned directors, actors, writers and producers.* He most recently starred in the world premier of "Two Things You Don't Talk About at Dinner" by Lisa Loomer at The Denver Center Theatre, "Tennis in Nablus" by Ismail Khalidi, "Rafta, Rafta" as Laxman Patel at the Old Globe Theatre in San Diego and the world premier of "Language Rooms" by Yussef El Guindi at the Wilma Theatre in Philadelphia. Recent TV credits include guest-star in "Homeland," "The Cleaner" and "The Unit." He co-starred in the indie feature AmericanEast (Best Picture at 2008 Madrid International Film Festival. Best Picture First Time Film Festival 2008 in Los Angeles) with Tony Shalhoub and Sarah Shahi, a timely, poignant drama about Arab-Americans living in post-9/11 Los Angeles. Credits include: recurring guest role on Emmy-Award winning "Homeland" and "24" and guest star roles on "Brothers and Sisters," "The Shield," "Sleeper Cell," "JAG," "NYPD Blue," and "Malcolm in the Middle." He starred in MOW's "Saving Jessica Lynch" and "Homeland Security." Feature film credits include: David Mamet's Spartan, Vadim Perelman's House of Sand and Fog, Jarhead directed by Sam Mendes, and Ocean's Twelve directed by Steven Soderbergh. His stage credits include: the world premiere of "Benedictus" in San Francisco and Los Angeles and the Moscow Arts Theatre's "The Shelter" at Odyssey Theatre in Los Angeles (five Ovation Award nominations, including Best Ensemble). Nasser Faris works throughout the U.S. in regional theaters and has just changed hometowns from Los Angeles, where he lived for the past 14 years, to N.Y.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2509632">
+      <nom>Kwon, Sylvia</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2997694">
+      <nom>Volodi, Giselda</nom>
+      <nomNaissance>Mazzantini, Giselda</nomNaissance>
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1725469">
+      <nom>Susser, Craig</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2941219">
+      <nom>Tedesco, Nerissa</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1472171">
+      <nom>Reiner, Carl</nom>
+      <nomNaissance />
+      <biographie>Carl Reiner is a legend of American comedy, having achieved great success as a comic actor, a director, producer and recording artist. He has won nine Emmy Awards, three as an actor, three as a writer and two as a producer. He also won a Grammy Award for his "10,000 Year Old Man" album, based on his comedy routine with 'Mel Brooks (I)' (qv).  Reiner was born in The Bronx. His father Irving, a Romanian immigrant, was a watchmaker; his mother, Bessie (née Mathias), had been born in Austria. At the age of 16, while working as a sewing machine repairman, he attended a dramatic workshop sponsored by the Works Progress Administration. The direction of his life was set.  In the 1970s, some sources claimed that Reiner made his movie debut in _New Faces of 1937 (1937)_ (qv), but that is unlikely as he would have only been 15-years-old at the time. (Interesting, that movie shares the same plot as his erstwhile partner 'Mel Brooks (I)' (qv)' 1968 classic, _The Producers (1967)_ (qv), with a crooked producer planning to fleece his "angels" by producing a flop and absconding with the money). He didn't appear on screen, silver or small, until he made his TV debut in 1948 in the short-lived TV series, _"The Fashion Story" (1948)_ (qv), then became a regular, the following year, on _"The Fifty-Fourth Street Revue" (1949), another TV series with a brief life.  Reiner made his Broadway debut in 1949 in the musical "Inside U.S.A.", a hit that ran for 399 performances. His next Broadway show, the 1950 musical revue, "Alive and Kicking", was a flop, lasting just 43 performances. 'Max Liebman' (qv), the producer/director/writer/composer, had been called in to provide additional material after the show's troubled six week out-of-town preview in Boston. It didn't help -- the show closed after six weeks on Broadway -- but an important contact had been made.  Leibman was a producer-director on _"Your Show of Shows" (1950)_ (qv), one of the great TV series, and he hired Reiner to appear on the show in the middle of its first season. Reiner's first gig on the revue-like show was interviewing "The Professor", a character played by 'Sid Caesar' (qv). He became central to the comedy portions of the show and, in 1953, he racked up the first of six Emmy nominations for acting. (In all, he was nominated for an Emmy Award a total of 13 times). When, in 1954, "Your Show of Shows" was split up by the network into its constituent parts, Reiner continued on with Sid in _"Caesar's Hour" (1954)_ (qv). ('Imogene Coca' (qv) was given her own show, which lasted one season, and Leibman was allowed to produced specials).  "Your Show or Shows" had been a Broadway-style revue, featuring skits such as dancing (including a young 'Bob Fosse' (qv)) whereas "Caesar's Hour" was pure comedy. "Your Show of Shows" had had a great cast, another other than Coca, most of the cast, including Reiner, 'Howard Morris (I)' (qv), and 'Nanette Fabray' (qv) (who went on to win an Emmy) moved over to "Caesar's Hour". In his three seasons on the show, he was nominated three more times for a Best Supporting Actor Emmy, winning twice in 1957 and 1958. But it was its stable of comedy writers that was essential to the great success of both "Your Show of Shows" and "Caesar's Hour". In addition to 'Mel Brooks (I)' (qv), the writing staff included 'Neil Simon (I)' (qv), his brother 'Danny Simon (I)' (qv), 'Larry Gelbart' (qv) and 'Mel Tolkin' (qv). (There are rumors that the young 'Woody Allen' (qv) served as the writing staff's typist).  Reiner had sat in informally with the writers during "Your Show of Shows", but he began writing formally for "Caesar's Hour", having learned his craft from all of the other writers. As a self-described uncredited "writer without portfolio", he was able to leave writers' meetings at 6 PM, if he wanted to. This gave him the time to work on a semi-autobiographical novel. Published in 1958, _Enter Laughing (1967)_ (qv) is about a young man in 1930s New York trying to make it in show business. It was transformed into a play and, eventually, adapted into a movie in 1967, and a musical, many years later.  In 1959, he created the pilot for a TV series, "Man of the House", in which he would play a writer, "Rob Petrie", who balanced his family life with the demands of working as a writer for a comedy show headlined by an egotistical comedic genius modeled after 'Sid Caesar' (qv) (a "benign despot" who lacked social skills, according to Reiner). The series was rooted in his experience on "Your Show of Shows" and "Caesar's Hour". The network didn't pick up the pilot at first, as CBS executives claimed the main character, which was clearly autobiographical on Reiner's part, was too New York, too Jewish and too intellectual. In 1960, Reiner teamed up with 'Mel Brooks (I)' (qv) on _"The Steve Allen Show" (1956)_ (qv), and their routine "The 2000 Year Old Man" was a huge success. Reiner played the straight man to Brooks in the routine, which was spun-off into five comedy albums, bringing them a Grammy Award. They also made an animated TV special based on their shtick in 1975.  Though CBS turned down "Man of the House", with the two-time Emmy-winning comedian Reiner as the lead, it was still interested in the series. However, they wanted a WASP in the role of "Rob Petrie" to ensure the broad appeal of the show, and the casting of the protagonist came down to 'Johnny Carson (I)' (qv) and 'Dick Van Dyke' (qv). Carson was a game show host of no great note at the time, but Van Dyke was in the smash Broadway musical, _Bye Bye Birdie (1963)_ (qv), for which he won a Tony Award. He got the part and another chapter of TV history was made, when 'Mary Tyler Moore' (qv), 'Rose Marie (I)' (qv) and 'Morey Amsterdam' (qv) all were cast in leading roles. Reiner, himself, would eventually play the role of "Alan Brady", the abrasive 'Sid Caesar' (qv)-like comic convinced of his own genius, in the last few seasons of the series' five-year run.  Another milestone in TV comedy, _"The Dick Van Dyke Show" (1961)_ (qv), brought Reiner five more Emmies, three for writing and two as the producer of the series. In 1966, Reiner and the other principals, including executive producer 'Sheldon Leonard' (qv) and Dick Van Dyke, decided to end the series at the height of its popularity and critical acclaim. (The show won Emmies as best show and best comedy in 1965 and 1966, respectively). Twenty-nine years after the show was ended, Reiner reprised the role of "Alan Brady" on _"Mad About You" (1992)_ (qv), winning his eighth (and so far, last) Emmy Award, this time as Outstanding Guest Actor in a Comedy Series.  It was on "The Dick Van Dyke Show" that Reiner first became a director. His feature film debut, as a director, was with the film adaptation of the play 'Joseph Stein' (qv) had adapted from his 1958 novel, _Enter Laughing (1967)_ (qv). His work as a writer-director, with 'Dick Van Dyke' (qv), in creating a 'Stan Laurel' (qv)-type character in _The Comic (1969)_ (qv) was not a success, but _Where's Poppa? (1970)_ (qv) became a cult classic and _Oh, God! (1977)_ (qv), with 'George Burns (I)' (qv), and _The Jerk (1979)_ (qv), with 'Steve Martin (I)' (qv), were smash hits. The last movie he directed was the 1997 comedy, _That Old Feeling (1997)_ (qv).  Reiner's career has continued on into the 21st Century, when most of his contemporaries had retired. He was awarded the 'Mark Twain' (qv) Prize for American Humor in 2000 and, starting in 2001, he acted in the remake of _Ocean's Eleven (2001)_ (qv) and its two sequels. Most recently, he has appeared as a voice artist in the animated series, _"The Cleveland Show" (2009)_ (qv) (he even wrote an episode for the series rooted in his "Your Show of Shows" experience) and has appeared as a regular on the TV series, _"Hot in Cleveland" (2010)_ (qv) (with fellow nonagenarian 'Betty White (I)' (qv)), as well as appeared on an episode of _"Parks and Recreation" (2009)_ (qv) in 2012.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Mon Mar 20 00:00:00 CET 1922</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2381924">
+      <nom>Hatte, Anne-Solenne</nom>
+      <nomNaissance />
+      <biographie>Eurasian with dual french and Vietnamese origins, Anne-Solenne Hatte was first discovered by French photographer Jean Baptiste Huynh, whose photos of her attracted her first agent. She appears in advertising for Cartier, Biotherm, Levis, and enrolled in Paris V and the Sorbonne University while she still worked as an actress and model. Her career began with the channel Canal +, which opened the gate for television. With the success of the concept of JT Decale, Anne-Solenne became the new face and anchor, of iTele's daily show. In charge of programming for a year, Anne-Solenne was inspired by alternative videos on the web and press pictures, and chose interesting guests such as Erik Orsenna, Claude Sarraute for Women's day. Although the show's a success and she greatly enjoys journalism, Anne-Solenne is determined to pursue her long-standing passion for acting. She captures Steven Soderbergh's attention and made her big-screen debut on Ocean 12. Then she attended the prestigious Drama School of Jean-Laurent Cochet in Paris for three years. Jean-Laurent Cochet directed her on stage as Eurydice - the main part in the eponymous play - and as Gwendoline in Becket, both by french author Jean Anouilh. She also stared in the 2010 Folie Theatre production of Talking with Angels, the true story of Gitta Mallasz, in Paris. In 2012 she played Juliet in a new production of Shakespeare's Romeo and Juliet directed by Baptiste Belleudy, in Paris. In 2012 she appeared in the beginning of Lock Out before her character was killed. The film is directed by James Mathers and Stephen St. Leger. Release April 2012.</biographie>
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_224112">
+      <nom>Brown, Karl A.</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2758904">
+      <nom>Potapova, Elena</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_179168">
+      <nom>Bodnar, Marc</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2056996">
+      <nom>Bell, Jessie</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1674985">
+      <nom>Sontag, Larry</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2459013">
+      <nom>Kahn-Ackermann, Amelie</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_963805">
+      <nom>Kross, Ed</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_346345">
+      <nom>Coltrane, Robbie</nom>
+      <nomNaissance>McMillan, Anthony Robert</nomNaissance>
+      <biographie>Robbie Coltrane, one of Britain's most popular comedians who was head of debating society at school and won prizes for his art, is now a film star who played in two James Bond films and in the "Harry Potter" franchise.  He was born Anthony Robert McMillan on March 30, 1950, in Rutherglen, a suburb of Glasgow, Scotland, UK. His father, Ian McMillan, was a general surgeon who also worked for police pathology. His mother, Jean, was a teacher and a pianist. Young Robbie was fond of art, music, films and cars. He was a voracious reader of his dad's books on medicine and crime. At age 12 he made his acting debut on stage at Glenalmond College, delivering rants from "Henry V". At that time he was fascinated with 'Marlon Brando' (qv) and 'Orson Welles' (qv).  He attended Glasgow Art School, majoring in drawing, painting and film, then studied art at Edinburgh's Moray House College of Education for a year. In 1973 he made a documentary titled "Young Mental Health", which was voted Film Of The Year by the Scottish Education Council. At that time Robbie took the name Coltrane, due to his love of jazz, and began a career of a stand-up comedian at night clubs, at the Edinburgh Festival, as well as an actor with Edinburgh's renowned Traverse Theatre.  In 1980 Coltrane made his debut on television as "Border Guard" in BBC's mini-series _"The Lost Tribe" (1980)_ (qv), then made his big screen debut as a limousine driver in _La mort en direct (1980)_ (qv). In 1981 he appeared in his first leading role as Detective Fritz Langley in _Subway Riders (1981)_ (qv), by famed underground director 'Amos Poe' (qv).  He became a well-known face through appearances in The Comic Strip series, then in _"Alfresco" (1983)_ (qv) and Comic Strip movies _The Supergrass (1985)_ (qv) and _The Pope Must Die (1991)_ (qv), among other films. At that time Coltrane had a drinking problem, downing as much as a bottle of whiskey a day. In 1986 he flew to a clinic in Mexico and was treated for obesity. In 1987 his partner for 15 years, Robin Paine, left him for good, leaving her portrait in Coltrane's barn.  In 1988 Coltrane met then 18-year-old Rhona Gemmell in a pub. They married and had a son, Spencer, and a daughter, Alice. His career took off during the early 1990s with the leading role as Dr. Eddie "Fitz" Fitzgerald, a forensic psychologist, in the popular TV series _"Cracker" (1993)_ (qv).  He made such a good performance as Valentin Zukovsky, a KGB man turned St. Petersburg mafia lord, in _GoldenEye (1995)_ (qv) the producers called him back for the same character in _The World Is Not Enough (1999)_ (qv). Then Coltrane hit another lucrative franchise; he was personally selected by 'J.K. Rowling' (qv) as her choice to play half-giant Rubeus Hagrid in the 'Harry Potter' films.  In early 1990s Coltrane wrote an autobiography, "Coltrane in a Cadillac", and also starred in the eponymous TV series, _"Coltrane in a Cadillac" (1993)_ (qv), in which he indulges his passion for vintage cars and tells with great humor about his 4000-mile journey across America from Los Angeles to New York. In 2003 he separated from his wife. His interests outside of his acting profession has been reading books, and rebuilding and collecting vintage cars. Robbie Coltrane resides in a converted farmhouse in Stirlingshire, Scotland, UK.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Thu Mar 30 00:00:00 CET 1950</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_397344">
+      <nom>Damon, Matt</nom>
+      <nomNaissance>Damon, Matthew Paige</nomNaissance>
+      <biographie>Matthew Paige Damon, or better known to fans as Matt Damon was born in Boston Massachusetts, USA to 'Kent Damon' (qv), a stockbroker, Realtor and tax preparer, and 'Nancy Carlsson-Paige' (qv), an early childhood education professor at Lesley University. Matt has an older brother named Kyle who is now a sculptor. Unfortunately for Matt and his brother, their parents divorced in the year 1973.  The 5'10" star is of English, Scottish, Finnish, and Swedish ancestry. While his parents were still together, their family lived in Newton, before eventually settling for a divorce, where Damon and his brother moved with his mother to Cambridge. He grew up in a stable community back in Massachusetts. Matt also grew up near actor 'Ben Affleck' (qv), when he was younger.  Matt attended Cambridge Rindge and Latin School which is located in Cambridge and he performed in a number of theater productions during his time there. Later on, he was accepted into Harvard University as an English major in the fall of 1988 and was supposed to graduate with the class of 1992. While in Harvard, he kept on skipping classes to pursue acting projects, which included the TNT original film, _Rising Sun (1993)_ (qv), and prep-school drama, _School Ties (1992)_ (qv). It was until his film, _Geronimo: An American Legend (1993)_ (qv), was expected to be a big success that he decided to drop out of university completely.  Arriving in Hollywood, Matt managed to get his first break with a part in the romantic comedy, _Mystic Pizza (1988)_ (qv). However, the film did not do too well and his film career failed to take off. Not letting failure discourage him from acting, he went for another audition, and managed to get a starring role in _School Ties (1992)_ (qv).  Up next for Matt was a role as a soldier who had problems with drug-addiction in the movie, _Courage Under Fire (1996)_ (qv). Matt had, in fact, lost forty pounds for his role which resulted in health problems. The following year, he garnered accolades for _Good Will Hunting (1997)_ (qv), a screenplay he had originally written for an English class at Harvard University. _Good Will Hunting (1997)_ (qv) was nominated for 9 Academy Awards, one of which, Matt won for Best Original Screenplay along with 'Ben Affleck' (qv).  In the year 1998, Matt played the title role in 'Steven Spielberg' (qv)'s film, _Saving Private Ryan (1998)_ (qv), which was one of the most acclaimed films in that year. Matt had the opportunity of working with 'Tom Hanks' (qv) and 'Vin Diesel' (qv) while filming that movie. That same year, he starred as an earnest law student and reformed poker player in _Rounders (1998)_ (qv), starring opposite 'Edward Norton (I)' (qv) and 'John Malkovich' (qv).  The next year, Matt rejoined his childhood friend, 'Ben Affleck' (qv) and fellow comedian, 'Chris Rock (I)' (qv), in the comedy _Dogma (1999)_ (qv). Towards the end of 1999, Matt played "Tom Ripley", a working-class young man who tastes the good life and will do anything to live it. Both 'Jude Law' (qv) and 'Gwyneth Paltrow' (qv) also starred in the movie. _The Talented Mr. Ripley (1999)_ (qv) earned mixed reviews from critics, but even so, Matt earned praise for his performance.  Matt lent his voice to the animated movie, _Titan A.E. (2000)_ (qv) in the year 2000, which also earned mixed reviews from the public. He also starred in two other movies, _All the Pretty Horses (2000)_ (qv) and the golf comedy-drama, _The Legend of Bagger Vance (2000)_ (qv), starring alongside 'Will Smith (I)' (qv).  In the year 2003, he signed on to star in _The Informant! (2009)_ (qv) by 'Steven Soderbergh' (qv) and the Farrelly Brothers' _Stuck on You (2003)_ (qv). He also starred in _Gerry (2002)_ (qv), a film he co-wrote with his friends, 'Gus Van Sant' (qv) and 'Casey Affleck' (qv).  One of Matt's most recognizable work to date is his role in the "Bourne" movie franchise. He plays an amnesiac assassin, "Jason Bourne", in _The Bourne Identity (2002)_ (qv), _The Bourne Supremacy (2004)_ (qv) and _The Bourne Ultimatum (2007)_ (qv).  Another praised role is that as "Linus Caldwell" in the "Ocean's" movie franchise. He had the opportunity to star opposite 'George Clooney' (qv), 'Brad Pitt' (qv), 'Julia Roberts (I)' (qv) and 'Don Cheadle' (qv) in _Ocean's Eleven (2001)_ (qv). The successful crime comedy-drama eventually had two other sequels, _Ocean's Twelve (2004)_ (qv) and _Ocean's Thirteen (2007)_ (qv).  Among other highly acclaimed movies that Matt managed to be a part of was in 'Terry Gilliam' (qv)'s _The Brothers Grimm (2005)_ (qv), 'George Clooney' (qv)'s _Syriana (2005)_ (qv), 'Martin Scorsese' (qv)'s _The Departed (2006)_ (qv) and 'Robert De Niro' (qv)'s _The Good Shepherd (2006)_ (qv).  In his personal life, Matt is now happily married to Argentine-born 'Luciana Barroso' (qv), whom he met in Miami, where she was working as a bartender. They married in a private civil ceremony on December 9, 2005, at the Manhattan Marriage Bureau. The couple have four daughters Alexia, Luciana's daughter from a previous relationship, as well as Isabella, Gia and Stella.  Matt is a big fan of the Boston Red Sox and he tries to attend their games whenever possible. He has also formed great friendships with his Ocean's co-stars, 'George Clooney' (qv) and 'Brad Pitt' (qv), whom he works on charity projects with. He and actor 'Ben Affleck' (qv), together with Ben's wife, 'Jennifer Garner (I)' (qv), are also good family friends and can be often seen going out together with Matt's wife, 'Luciana Barroso' (qv).</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Thu Oct 08 00:00:00 CET 1970</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2030964">
+      <nom>Azzara, Candice</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>Fri May 18 00:00:00 CET 1945</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1909584">
+      <nom>Widerberg, Johan</nom>
+      <nomNaissance>Widerberg, Johan Olof</nomNaissance>
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sat Mar 16 00:00:00 CET 1974</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_284714">
+      <nom>Cassel, Vincent</nom>
+      <nomNaissance>Crochon, Vincent</nomNaissance>
+      <biographie>Blue-eyed Vincent Cassel was born in Paris to a leading French actor father, 'Jean-Pierre Cassel' (qv) and a journalist mother. Often labeled as a tough guy because of his roles, eclectic choices and talent have made of him a star of European cinema. First in _La haine (1995)_ (qv), the young actor, actually coming from upper classes, succeeded to express the despair of a social class living in the suburbs of towns. This veracity in his play comes from the fact that he was in fact since years in connection with many hip-hop artists from the rising generation, (his own brother was leader of a legendary french rap group). Then the success of The crimson rivers, where he plays a young French cop alongside 'Jean Reno (I)' (qv), made of him "the man to count on." He never hid his taste for rap music, break dance, Capoeira, Brasil and his endless energy, but Vincent is also a family man, married to 'Monica Bellucci' (qv), his Italian co-star from _L'appartement (1996)_ (qv) (aka The Apartment); and recently a father.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Nov 23 00:00:00 CET 1966</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1078097">
+      <nom>Mac, Bernie</nom>
+      <nomNaissance>McCullough, Bernard Jeffrey</nomNaissance>
+      <biographie>Bernard Jeffrey McCollough was born in Chicago in 1957. He grew up in Chicago, in a rougher neighborhood than most others, with a large family living under one roof. This situation provided him with a great insight into his comedy, as his family, and the situations surrounding them would be what dominated his comedy. Mac worked in the Regal Theater, and performed in Chicago parks in his younger days. He became a professional comedian in 1977, at the age of 19. He refused to change his image for television and films, and therefore was not very well known for most of the eighties. In 1992 he made his film debut with a small part with _Mo' Money (1992)_ (qv). This started a plethora of small parts in a string of movies, mostly comedies, including _Who's the Man? (1993)_ (qv), _House Party 3 (1994)_ (qv) and _The Walking Dead (1995)_ (qv). 1995 proved to be a turning point in his career. He did an HBO Special called _"Midnight Mac" (1995)_ (qv), and took a part as Pastor Clever in the Chris Tucker comedy _Friday (1995)_ (qv). Bernie Mac developed a cult following due to the movie and had many small parts since. In 1996 he starred in the memorable 'Spike Lee' (qv) movie _Get on the Bus (1996)_ (qv), and was very funny in _Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)_ (qv). About this time he had a recurring role in the TV series _"Moesha" (1996)_ (qv). Bernie Mac's star was slowly rising from this point. His next couple of movie parts were more substantial, including _How to Be a Player (1997)_ (qv) and _The Players Club (1998)_ (qv). In 1999 Bernie Mac got his most high profile part up to that point in the film _Life (1999/I)_ (qv) starring 'Eddie Murphy (I)' (qv).  The new century started a new era for the brash Chicago comedian. He was a featured comedian in _The Original Kings of Comedy (2000)_ (qv). This performance made him more of a household name, and led to many more major parts. In 2001 he played Martin Lawrence's uncle in _What's the Worst That Could Happen? (2001)_ (qv) and later that year, was in the star studded remake of _Ocean's Eleven (2001)_ (qv). However his biggest success was _"The Bernie Mac Show" (2001)_ (qv), which debuted in 2001 to instant acclaim. However, soon after the series ended, Mac's health took a turn for the worse. He developed sarcoidosis, an autoimmune disease which causes inflammation in the lungs. On August 9, 2008, after weeks of unsuccessful treatments, Bernie Mac died at Northwestern Memorial Hospital in Chicago. He was 50.  Bernie Mac was a comedian that refused to change his image for Hollywood and said that his life in Chicago was who he was and there was nothing that could change that. He was a mature comedian who was very intelligent and very engaging in his TV, movie and stand-up appearances.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sat Oct 05 00:00:00 CET 1957</dateNaissance>
+      <dateDeces>Sat Aug 09 00:00:00 CEST 2008</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2626471">
+      <nom>Mendez, Denny</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>Thu Jul 20 00:00:00 CET 1978</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1404087">
+      <nom>Pitt, Brad</nom>
+      <nomNaissance>Pitt, William Bradley</nomNaissance>
+      <biographie>Brad Pitt was born on December 18, 1963 in Shawnee, Oklahoma and raised in Springfield, Missouri. His mother's name is Jane Etta Hillhouse. His father, William (Bill) Pitt, worked in management at a trucking firm in Springfield. He has a younger brother, Douglas (Doug) Pitt and a younger sister Julie Neal Pitt. At Kickapoo High School, Pitt was involved in sports, debating, student government and school musicals. Pitt attended the University of Missouri, where he majored in journalism with a focus on advertising. He occasionally acted in fraternity shows. He left college two credits short of graduating to move to California. Before he became successful at acting, Pitt supported himself by driving strippers in limos, moving refrigerators and dressing as a giant chicken while working for "el Pollo Loco".</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Dec 18 00:00:00 CET 1963</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2172284">
+      <nom>Connolly, Dina</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1914685">
+      <nom>Willems, Jeroen</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Thu Nov 15 00:00:00 CET 1962</dateNaissance>
+      <dateDeces>Mon Dec 03 00:00:00 CET 2012</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1588482">
+      <nom>Schneider, James</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2801646">
+      <nom>Roberts, Julia</nom>
+      <nomNaissance>Roberts, Julia Fiona</nomNaissance>
+      <biographie>Julia Fiona Roberts, born in Smyrna, Georgia, never dreamed she would become the most popular actress in America. As a child, due to her love of animals, Julia originally wanted to be a veterinarian, but later studied journalism. When her brother, 'Eric Roberts (I)' (qv), achieved some success in Hollywood, Julia decided to try acting. Her first break came in 1988 when she appeared in two youth-oriented movies _Mystic Pizza (1988)_ (qv) and _Satisfaction (1988)_ (qv). The movies introduced her to a new audience who instantly fell in love with this pretty woman. Julia's biggest success was in the signature movie _Pretty Woman (1990)_ (qv), for which Julia got an Oscar nomination, and also won the People's Choice award for Favorite Actress. Even though Julia would spend the next few years either starring in serious movies, or playing fantasy roles like Tinkerbell, the movie audiences would always love Julia best in romantic comedies. With _My Best Friend's Wedding (1997)_ (qv) Julia gave the genre fresh life that had been lacking in Hollywood for some time. Offscreen, after a brief marriage, Julia has been romantically linked with several other actors. Julia has also become involved with UNICEF charities and has made visits to many different countries, including Haiti and India, in order to promote goodwill. Julia is one of the most popular and sought-after talents in Hollywood.</biographie>
+      <sexe type="FEMININ" />
+      <dateNaissance>Sat Oct 28 00:00:00 CET 1967</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2007299">
+      <nom>Anden, Mini</nom>
+      <nomNaissance>Andén, Susanna</nomNaissance>
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>Wed Jun 07 00:00:00 CET 1978</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_848431">
+      <nom>Jemison, Eddie</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_334121">
+      <nom>Clooney, George</nom>
+      <nomNaissance>Clooney, George Timothy</nomNaissance>
+      <biographie>Born in Lexington, Kentucky, as son of 'Nick Clooney' (qv), a TV newscaster of many years, who hosted a talk show at Cincinnati and often invited George into the studios already at the age of 5. Avoiding competition with his father, he quit his job as broadcast journalist after a short time.  George studied for a few years at Northern Kentucky University. He failed to join the Cincinnati Reds baseball team. He came to acting when his cousin, 'Miguel Ferrer (I)' (qv), got him a small part in a feature film. After that, in 1982, he moved to Los Angeles and tried for a whole year to get a role while he slept in a friend's closet. His first movie, together with 'Charlie Sheen' (qv), stayed unreleased but got him the producers' attention for later contracts.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sat May 06 00:00:00 CET 1961</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1190261">
+      <nom>Miele, Luciano</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Tue Feb 24 00:00:00 CET 1959</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1007099">
+      <nom>Leal, Carlos</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Jan 01 00:00:00 CET 1969</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2220301">
+      <nom>Dench, Judi</nom>
+      <nomNaissance>Dench, Judith Olivia</nomNaissance>
+      <biographie>Attended Mount School in York, and studied at the Central School of Speech and Drama. She has performed with Royal Shakespeare Company, the National Theatre, and at Old Vic Theatre. She is a ten-time BAFTA winner including Best Actress in a Comedy Series for _"A Fine Romance" (1981)_ (qv) in which she appeared with her husband, 'Michael Williams (I)' (qv), and Best Supporting Actress in _A Handful of Dust (1988)_ (qv) and _A Room with a View (1985)_ (qv) . She received an ACE award for her performance in the television series _Mr. and Mrs. Edgehill (1985) (TV)_ (qv). She was made an Officer of the Order of the British Empire in 1970, and was created Dame of Order of the British Empire in 1988.</biographie>
+      <sexe type="FEMININ" />
+      <dateNaissance>Sun Dec 09 00:00:00 CET 1934</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_414353">
+      <nom>De Bankolé, Isaach</nom>
+      <nomNaissance />
+      <biographie>Isaach De Bankole, C'sar award-winning actor, was born on the Ivory Coast. Isaach was discovered on the streets of Paris while studying to be an airline pilot. He has a degree in Acting from Cours Simon and a Masters in Mathematics from the Universite de Paris.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Mon Aug 12 00:00:00 CET 1957</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2925977">
+      <nom>Svátková, Vlastina</nom>
+      <nomNaissance />
+      <biographie>Ten years before Czechoslovakia separated, Vlastina was born to Czechoslovakian parents: a Slovak mother and Czech (or shall we say, Moravian) father. She attended elementary and a high school in the Slovak town of Myjava. She studied piano for fifteen years and also took in drawings and singing lessons. She also studied writing and reciting poems. Even though Vlastina had wanted become an actress since childhood, she made two detours along the way. She studied Mass Communication as well as the Commenius University in Bratislava, where she got her Master. Her first feature was Casino Royale by Martin Campbell, where she got a part in the casino. Then she continued in The Red Baron, Dark Spirits, Women in Temptation. She got a role of an American spy in television film The Rhythm at their heels. A story set in the early 1950s, when the communist regime in Czechoslovakia mercilessly wiped out the remaining elements of the free world. A bunch of naive young people associated with a coffee-house jazz band were easy prey for the pitiless State Security men. In 2009 she got a part of a nurse Tereza in thriller Unknown Hour - a not very fictive story of a man, known in fact as "the hospital murderer". In 2010 she started to shoot a historical epic The Danube Saga where she performed the main character of Elena Unger. Saga, a concatenation of stories of one's line. Vlastina is also performing in theater and writing books.</biographie>
+      <sexe type="FEMININ" />
+      <dateNaissance>Tue Mar 09 00:00:00 CET 1982</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2636138">
+      <nom>Milicevic, Ivana</nom>
+      <nomNaissance />
+      <biographie>Ivana Milicevic was born on April 26, 1974, in Sarajevo, Bosnia (part of Yugoslavia at that time), into an ethnic Croatian family of Tonka and Damir Milicevic. Ivana has a younger brother, Tomo Milicevic. The family emigrated to the United States, and young Ivana Milicevic was raised in Michigan. She attended Athens High school in Troy, Michigan, and worked as a model during her school years. She became a naturalized citizen of the United States.  In 1992, Milicevic graduated from high school and moved to Los Angeles in pursuit of an acting career. She was a struggling stand-up comedienne, trying to win over crowds with her stories of the modeling business. In 1996, she made her film debut under the name Ivana Marina with a one-line role as a Former Girlfriend of 'Tom Cruise' (qv) in _Jerry Maguire (1996)_ (qv). In 1997, she followed up with a guest role on NBC's _"Seinfeld" (1989)_ (qv) and made guest appearances on several other television shows. She played bit parts in _Vanilla Sky (2001)_ (qv) and _Love Actually (2003)_ (qv), among her many other cameo appearances. Milicevic capitalized on her experience as a comedienne in a supporting role as Russian model Roxana Milla Slasnikova in the romantic comedy _Head Over Heels (2001)_ (qv). She appeared as a lookalike of 'Uma Thurman' (qv) opposite 'Ben Affleck' (qv), trying to fool him into thinking she is Uma, in _Paycheck (2003)_ (qv). In a departure from her one-dimensional roles, Milicevic showed her dramatic talent in a supporting role as Milla Yugorsky in a dark and gritty drama _Running Scared (2006)_ (qv). In 2006, she started a recurring role on the CBS TV series _"Love Monkey" (2006)_ (qv).  In 2006, Milicevic made a big step forward in her career appearing as Valenka, one of three Bond girls in _Casino Royale (2006)_ (qv), for which she did most of her scenes on locations in Prague and in London. She is currently residing in Los Angeles, California.</biographie>
+      <sexe type="FEMININ" />
+      <dateNaissance>Fri Apr 26 00:00:00 CET 1974</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1199473">
+      <nom>Millson, Joseph</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Tue Jan 01 00:00:00 CET 1974</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1645521">
+      <nom>Sinclair, Malcolm</nom>
+      <nomNaissance />
+      <biographie>Malcolm Sinclair read drama and theology at the University of Hull and then went on to do a one year post-graduate acting course at Bristol Old Vic Theatre School. After seven years in different repertory companies around the country he made his London debut in 1985 at the Notting Hill Gate Theatre in Arthur Schnitzler's play 'Anatole', which he describes as the first thing that got him noticed. Since then he has appeared with both the National and Royal Shakespeare companies and has taken on musical roles in the likes of 'Privates On Parade' and 'My Fair lady'. On television he has been bumped off several times in who-dunnit mystery dramas though he stayed the course as supercilious Assistant Chief Constable Freddie Fisher in 'Pie In the Sky'. In July 2010 he was elected the president of the Equity actors' union.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Mon Jun 05 00:00:00 CET 1950</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1493564">
+      <nom>Ristovski, Lazar</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sun Oct 26 00:00:00 CET 1952</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1020217">
+      <nom>Lenc, Jirí</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2998542">
+      <nom>von Lehndorff, Veruschka</nom>
+      <nomNaissance>von Lehndorff, Countess Vera Gottliebe Anna</nomNaissance>
+      <biographie>Her father was a Prussian count (Count von Lehndorff-Steinort) who was involved in a plot to assassinate Hitler in 1944 and hanged that year, when Vera was three. Her mother was arrested, and Vera and her sisters spent the rest of the war in Gestapo camps. They were reunited with their mother after the war, but the family was destitute, and ostracised by other Germans for their father's treachery. She ended up studying textile design in Florence, where a fashion designer first asked her to model. She had first travelled to New York in 1961 as plain old Vera, but failed to secure a single booking. After retreating to Milan for a spell, she returned to take Manhattan under her new name.... Veruschka!</biographie>
+      <sexe type="FEMININ" />
+      <dateNaissance>Sun May 14 00:00:00 CET 1939</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1620597">
+      <nom>Shaw, Darwin</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_11435">
+      <nom>Ade</nom>
+      <nomNaissance />
+      <biographie>Born in London, in the early seventies, Ade tried his hand at various trades; from selling shoes, tickets for concerts, managing bands, to publishing an international horse racing magazine. Ade was known by Guy Ritchie who cast him as Tyrone the getaway driver in _Snatch. (2000)_ (qv). He then set off on the European press jaunt &amp; traveled to the United States to preview the movie, addressing the audience at Harry Knowles' 24hr film festival at The Alamo, Texas.  Ade has since been involved with several other film and TV projects; notably as Infante in the Bond movie _Casino Royale (2006)_ (qv) and Madonna's directorial debut _Filth and Wisdom (2008)_ (qv).</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_852802">
+      <nom>Jezek, Robert</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1314130">
+      <nom>Offei, Michael</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Tue Oct 04 00:00:00 CET 1966</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_968243">
+      <nom>Kulhavý, Vladimír</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_842121">
+      <nom>Jankovsky, Jaroslav</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1668852">
+      <nom>So, Tom</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2401856">
+      <nom>Hladikova, Veronika</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2309041">
+      <nom>Gabajová, Regina</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>Wed Apr 21 00:00:00 CET 1971</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_77354">
+      <nom>Atkins, Lasco</nom>
+      <nomNaissance />
+      <biographie>Lasco Atkins was born in Hong Kong in 1980. At an early age he already knew he loved films, mainly action movies starring Arnie, Sly, JCVD, etc. Once at film school he learned a new appreciation for classics, black &amp; whites, 70s, etc. He re-watched old films such as Blade Runner and no longer thought of them as boring but as visual masterpieces. He started making videos of skits with friends and skateboarding videos. At Art College (Surrey Institute in Farnham) he tried video editing for the first time, where he mainly made OTT videos. At Film School he shot on film stock for the first time and edited on Steen-beck also. He developed a wider understanding and appreciation for how films were/are made. Going in only wanting to be a director, he came out of LFS (London Film School) as a cameraman. Once he left film school, he began focus pulling/camera assistant. Eventually he caught the lighting bug. This is extremely helpful for young DP's since they must have a good knowledge of lights and camera. Occasionally directing, he also acts on bigger budget films. He is happy anywhere on a film set, either in front, behind or anywhere as long as the project is valuable and an experience. Lately he has even tried his hands at rapping, appearing in two of his own music videos this year already (2013) known as Lasco Tobasco.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_82002">
+      <nom>Avena, Emmanuel</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_488415">
+      <nom>Durran, Jason</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1941794">
+      <nom>Wright, Jeffrey</nom>
+      <nomNaissance />
+      <biographie>Quite possibly the most underrated and underexposed actor of his caliber and generation, Jeffrey Wright's undeniable talent and ability to successfully bring to life any role he undertakes is on a par with the most praised and revered A-list actors in the business. Born and raised in Washington DC, Wright graduated from the prestigious Amherst college in 1987. Although he studied Political Science while at Amherst, Wright left the school with something that would prove to be more valuable: a love for acting. Shortly after graduating he won an acting scholarship to NYU, but dropped out after only two months to pursue acting full time. With roles in 1990's Presumed Innocent, and the Broadway production of Angels in America, (in which he won a well deserved Tony award), within a relatively short time Wright was able to show off his exceptional talent and ability on both stage and screen alike. His first major on-screen performance came in 1996 in the Julian Schnabel directed film Basquiat. Wright's harrowing performance as the late painter Jean Michele Basquiat was critically acclaimed for its haunting accuracy and raw emotion. With a Tony, a Golden Globe, and an AFI award under his belt, the intensity of Wright's skill has been proven over and over again. Hopefully the near future will bring an influx of more varied lead roles for black actors so that Wright can continue to astonish his colleagues, critics and fans alike with the intensity of his skill.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Tue Dec 07 00:00:00 CET 1965</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_319401">
+      <nom>Christensen, Jesper</nom>
+      <nomNaissance />
+      <biographie>Born 1948 in central Copenhagen. Lived there ever since. Did 25 years of theatre, - like Alceste in the Misanthropist, Richard in Richard lll (solo), Faust in Faust, Astrov in Vanja, a lot of worried men,- stopped doing it in 1998. Since then only worried men on film. Worked on more than 100 films by Per Fly, Marc Forster, John Madden, Lone Scherfig, Sydney Pollack, Jan Troell, Martin Campbell, Anette K Olesen, Pernille Fischer Christensen, and others. Since 2000 lives with Tove Bornhoeft, wonderful Danish theatre manager/director/actress. Two grown up daughters. No animals. Dogs, pigs, chickens, cats, birds, horses, fish, rabbits - all gone now.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sun May 16 00:00:00 CET 1948</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_370864">
+      <nom>Craig, Daniel</nom>
+      <nomNaissance>Craig, Daniel Wroughton</nomNaissance>
+      <biographie>Daniel Craig, one of British theatre's most famous faces who was waiting tables as a struggling teenage actor with the NYT, went on to star as "James Bond" in _Casino Royale (2006)_ (qv), _Quantum of Solace (2008)_ (qv) and _Skyfall (2012)_ (qv).  He was born Daniel Wroughton Craig on March 2, 1968, at 41 Liverpool Road, Chester, Cheshire, England. His father, Tim Craig, was a merchant seaman turned steel erector, then became landlord of "Ring O' Bells" pub in Frodsham, Cheshire. His mother, Carol Olivia Craig, was an art teacher. His parents split up in 1972, and young Daniel Craig was raised with his older sister, Lea, in Liverpool, then in Hoylake, Wirral, in the home of his mother. His interest in acting was encouraged by visits to the Liverpool Everyman Theatre arranged by his mother. From the age of 6, Craig started acting in school plays, making his debut in the Frodsham Primary School production of "Oliver!", and his mother was the driving force behind his artistic aspirations. The first Bond movie he ever saw at the cinema was 'Roger Moore (I)' (qv)'s _Live and Let Die (1973)_ (qv); young Daniel Craig saw it with his father, so it took a special place in his heart. He was also a good athlete and was a rugby player at Hoylake Rugby Club.  At the age of 14, Craig played roles in "Oliver", "Romeo and Juliet" and "Cinderella" at Hilbre High School in West Kirby, Wirral, UK. He left Hilbre High at 16 to audition at the National Youth Theatre's (NYT) troupe on their tour in Manchester in 1984. He was accepted and moved down to London. There, his mother and father watched his stage debut as "Agamemnon" in Shakespeare's "Troilus and Cressida". As a struggling actor with the NYT, he was toiling in restaurant kitchens and as a waiter. Craig performed with NYT on tours to Valencia, Spain, and to Moscow, Russia, under the leadership of director 'Edward Wilson (I)' (qv). He failed at repeated auditions at the Guildhall, but eventually his persistence paid off, and in 1988, he entered the Guildhall School of Music and Drama at the Barbican. There, he studied alongside 'Ewan McGregor' (qv) and 'Alistair McGowan' (qv), then later 'Damian Lewis (I)' (qv) and 'Joseph Fiennes' (qv), among others. He graduated in 1991, after a three-year course under the tutelage of 'Colin McCormack (I)' (qv), the actor from the Royal Shakespeare Company. From 1992-1994, he was married to Scottish actress Fiona Loudon, their daughter, named 'Ella Craig' (qv), was born in 1992. Daniel Craig made his film debut in _The Power of One (1992)_ (qv). His film career continued on television, notably the BBC2 serial _"Our Friends in the North" (1996)_ (qv). He shot to international fame after playing supporting roles in _Lara Croft: Tomb Raider (2001)_ (qv) and _Road to Perdition (2002)_ (qv). He was nominated for his performances in the leading role in _Layer Cake (2004)_ (qv), and received other awards and nominations. Craig was named as the sixth actor to portray "James Bond", in October of 2005, weeks after he finished his work in _Munich (2005)_ (qv), where he co-starred with 'Eric Bana' (qv) under the directorship of 'Steven Spielberg' (qv).  Craig's reserved demeanor and his avoidance of the showbiz-party-red-carpet milieu makes him a cool "007". He is the first blonde actor to play Bond, and also the first to be born after the start of the film series, and also the first to be born after the death of author 'Ian Fleming (I)' (qv) in 1964. Four of the past Bond actors: 'Sean Connery' (qv), 'Roger Moore (I)' (qv), 'Timothy Dalton' (qv) and 'Pierce Brosnan' (qv) have indicated that Craig is a good choice as "Bond".</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sat Mar 02 00:00:00 CET 1968</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_218944">
+      <nom>Brooke, Peter</nom>
+      <nomNaissance />
+      <biographie>Born in Toronto of American and British parents, Peter lives and works internationally. In the USA drama series, The Fugitive Chronicles, he took on the title role in the Danny Ray Horning episode, portraying the wily but misunderstood convict who eluded his pursuers. His television credits also include Dr Who, Sherlock, Small Island, Blood in the Water, The Enemy Within, Billy the Kid, Over Here, The Increasingly Poor Decisions of Todd Margaret and Spooks (or MI5 as it is known in the USA). Peter first took over the role of Captain Jack Ross in the West End's A Few Good Men, written by Aaron Sorkin and also starring Rob Lowe. He then played Phil in the West End premiere of Arthur Miller's Resurrection Blues, directed by the late, great Robert Altman, and produced by Kevin Spacey. He appeared again in the West End as John Williamson in David Mamet's Glengarry Glen Ross with Jonathan Pryce and Aiden Gillen. Appearing in such films as Casino Royale and The Dark Knight, he also plays hippie activist Jerry Rubin in the upcoming Warner Brothers movie Hippie Hippie Shake opposite Cillian Murphy and Sienna Miller. In addition, he is the crazed DJ Phoenix Fox in the upcoming video game Forza Horizon.  Recently, Peter has been shooting Red Lights with Robert De Niro, the Swiss film Trained, the 20th Century Fox horror Wrong Turn 5, and, of course, The Dinosaur Project with StudioCanal.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2637370">
+      <nom>Miller, Jessica</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_4607">
+      <nom>Abkarian, Simon</nom>
+      <nomNaissance>Abkarian, Simone</nomNaissance>
+      <biographie>Simon Abkarian was born Simone Abkarian on March 5, 1962, in Gonesse, a northeastern suburb of Paris, France, into a French - Armenian family. Young Simon Abkarian grew up in a trilingual environment, he learned French at school in addition to his native Armenian, and also learned English by watching American films since he was a kid. He spent most of his childhood in France until the age of nine, then went with his parents to Beirut, Lebanon.  From 1971 to 1977 young Abkarian lived with his mother and father in Lebanon. He studied dancing with the Lori Dance Ensemble in Beirut. There he attended Armenian school and also studied French and English. In 1977, his father went to war in Lebanon, and 15-year-old Abkarian with his mother moved back to Paris. A few years later he moved to New York and continued his studies of dancing and acting at the Antranik company in New York, then moved to Los Angeles, California. In 1983-1985 he studied acting and joined the Armenian Theatre Company Artavadzt of the AGBU under the leadership of director Gerald Papazian. In 1984, he joined the workshop at renown Theatre du Soleil on tour in Los Angeles during the Olympics Art Festival. Abkarian took a month-long acting workshop from Mnouchkine's mask-maker, Georges Bigot, then was auditioned by Ariane Mnouchkine who invited him to join the company. In 1985 Abkarian returned to Paris, France. There he resumed a successful stage acting career, and had an eight-year-long collaboration with Ariane Mnouchkine, the legendary director of Théâtre du Soleil. There he played leading roles in Greek tragedies and became known for his charismatic performances. He also directed several stage plays in Paris, including Shakespeare's 'Love's Labour Lost' at the Bouffles du Nord, and Aeschylus's 'The Last Song of Troy' at Bobigny, among others. In 2001 Abkarian won the highest award in French theatre for an actor - the Prix Molière, for his performance in 'Une Bête Sur La Lune' (aka.. Beast on the Moon). Since 1993, Abkarian and his actress-director wife, Catherine Schaub, started their own theatre T.E.R.A. (Theatre Espace Recherche Acteur) in Paris. There he has been playing and directing classical and contemporary plays. In the season of 2005-2006, he was brought by The Actors' Gang to direct Shakespeare's 'Love's Labor's Lost' in Los Angeles.  Abkarian made his film debut in 1989, in a short film 'Ce qui me meut' by director Cédric Klapisch. During his early film career, Abkarian enjoyed a fruitful collaboration with Cédric Klapisch in 6 French films, becoming noticed in the award winning _Chacun cherche son chat (1996)_ (qv). He earned critical acclaim for his portrayal of painter Archil Gorky in 'Atom Egoyan' (qv)'s award winning epic _Ararat (2002)_ (qv). Simon Abkarian won awards for his performance as Eliahou in 'To Take a Wife (2004) by director Ronit Elkabetz. That same year Abkarian gave a stellar performance in his first leading role in English, co-starring as He, a passionate Lebanese doctor turned cook who is in love with an American woman (Joan Allen) in _Yes (2004/I)_ (qv) directed by Sally Potter. He made a step forward in his film career with the supporting role as Alex Dimitros in _Casino Royale (2006)_ (qv), playing in several powerful scenes opposite 'Daniel Craig (I)' (qv).  Simon Abkarian has been generously involved in the humanitarian causes of the Armenian people across the world. He has been a frequent participant, host and presenter at numerous charitable events and ceremonies related to the Armenian causes. He was also a member of French President Jacque Chirac's delegation to Armenia in October of 2006.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Mon Mar 05 00:00:00 CET 1962</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_448361">
+      <nom>Diaw, Makhoudia</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_106571">
+      <nom>Barberini, Urbano</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Mon Sep 18 00:00:00 CET 1961</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2702533">
+      <nom>Ochotská, Michaela</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>Wed Dec 19 00:00:00 CET 1984</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1171383">
+      <nom>Meheux, Phil</nom>
+      <nomNaissance>Meheux, Philip</nomNaissance>
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Sep 17 00:00:00 CEST 1941</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1644947">
+      <nom>Simunek, Miroslav</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Apr 05 00:00:00 CET 1978</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1711852">
+      <nom>Stransky, Leo</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_576848">
+      <nom>Foucan, Sebastien</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Mon May 27 00:00:00 CET 1974</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_104350">
+      <nom>Bannon, Paul</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_248748">
+      <nom>Byfield, Trevor</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Oct 20 00:00:00 CET 1943</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1192950">
+      <nom>Milanovich, Vladimir</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2022331">
+      <nom>Arthur, Michelle</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="FEMININ" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1205728">
+      <nom>Mitchell, Billy J.</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Thu Jan 01 00:00:00 CET 1942</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_220515">
+      <nom>Brosnan, Pierce</nom>
+      <nomNaissance>Brosnan, Pierce Brendan</nomNaissance>
+      <biographie>Pierce Brosnan was born in Navan, County Meath, Ireland, and lived in Navan, County Meath, until he moved to England, UK, at an early age (thus explaining his ability to play men from both backgrounds convincingly). His father left the household when Pierce was a child and although reunited later in life, the two have never had a close relationship. His most popular role is that of British secret agent James Bond. The death, in 1991, of 'Cassandra Harris (I)' (qv), his wife of eleven years, left him with three children - Christopher and Charlotte from Cassandra's first marriage and Sean from their marriage. Since her death, he has had two children with his second wife, 'Keely Shaye Smith' (qv).</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sat May 16 00:00:00 CET 1953</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_1092287">
+      <nom>Majer, Peter</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_2854968">
+      <nom>Scorupco, Izabella</nom>
+      <nomNaissance>Skorupko, Izabella Dorota</nomNaissance>
+      <biographie>Born in the northern Polish town of Bialystok, 'Izabella Scorupco' (qv) moved to Sweden with her mother as a young child. She studied drama and music and, at 17, was discovered by a Swedish film director who cast her in the movie _Ingen kan älska som vi (1988)_ (qv), which made her a local teenage idol. She then became a successful model in Sweden and throughout Europe, where she made good use of her fluency in four languages.  In 1989, Scorupco displayed another facet of her talents, launching her career as a pop singer with her first single, Substitute. The single and subsequent album, IZA, both went gold, and she followed with another hit single, Shame, Shame, which she recorded in 1991. Returning to acting in 1994, she immediately won the lead role in the Swedish film _Petri tårar (1995)_ (qv). Scorupco stars as a woman who lives her life as a man in the medieval drama, which was released in August 1995.</biographie>
+      <sexe type="FEMININ" />
+      <dateNaissance>Thu Jun 04 00:00:00 CET 1970</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_827458">
+      <nom>Isyanov, Ravil</nom>
+      <nomNaissance />
+      <biographie>Born in 1962 in the Soviet Union in Greater Moscow area, the city of Voskresensk. Throughout childhood, Ravil attended classes in music, ballet, theater, as well as going for sports - ice hockey, boxing and soccer among them. After completing his 2 years national service in the Soviet Air Force, Ravil worked for two seasons in Khabarovsk Theater. Then, he studied in Moscow Art Theater School for four years. He simultaneously studied three summers at the Oxford branch of British American Drama Academy. In 1990 Ravil went to UK at the invitation of Theater Clwyd, Wales. After collapse of the USSR, he stayed in Britain and continued working there. In 1998 he moved to Los Angeles to pursue his film career and now works and lives there.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>???</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_933908">
+      <nom>Kitchen, Michael</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Sun Oct 31 00:00:00 CET 1948</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_678837">
+      <nom>Gregory, Constantine</nom>
+      <nomNaissance />
+      <biographie>Actor and dialect coach, Constantine Gregory was born Constantine Liebert, or Leebaert to a Dutch father and Russian mother. As the son of a journalist/broadcaster father and an actress mother, Constantine attended school in England after moving there with his mother in 1950. After attending Dartington Hall School, Constantine went to Trinity College, Dublin from 1961-1965, studying Economics and Political Science. During his college years, he was President of the Trinity College Players and found huge success while at the Edinburgh Festival, performing at the still-newly opened Traverse Theatre. Constantine continued his stage work with performances across the London front. He began screen work in 1967 and cultivated a vast amount television credits. Constantine's film work ties itself to high-profile movies including the action-adventure spy thriller GoldenEye (1995) starring Pierce Brosnan, the Ancient Roman drama Titus (1999) starring Anthony Hopkins and into the early 2000s, appeared in the adventure comedy Shanghai Knights (2003) starring Jackie Chan and Owen Wilson.</biographie>
+      <sexe type="MASCULIN" />
+      <dateNaissance>Wed Sep 16 00:00:00 CEST 1942</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+    <acteur acteurId="id_470908">
+      <nom>Douglas, Pavel</nom>
+      <nomNaissance />
+      <biographie />
+      <sexe type="MASCULIN" />
+      <dateNaissance>Fri Jan 05 00:00:00 CET 1951</dateNaissance>
+      <dateDeces>???</dateDeces>
+    </acteur>
+  </acteurs>
+  <list_langages>
+    <langage langageId="id_3019">
+      <labelLa>Mandarin</labelLa>
+    </langage>
+    <langage langageId="id_3016">
+      <labelLa>French</labelLa>
+    </langage>
+    <langage langageId="id_3018">
+      <labelLa>Dutch</labelLa>
+    </langage>
+    <langage langageId="id_3128">
+      <labelLa>French</labelLa>
+    </langage>
+    <langage langageId="id_3496">
+      <labelLa>Russian</labelLa>
+    </langage>
+  </list_langages>
+  <list_genres>
+    <genre genreId="id_3013">
+      <labelGe>Thriller</labelGe>
+    </genre>
+    <genre genreId="id_3125">
+      <labelGe>Thriller</labelGe>
+    </genre>
+    <genre genreId="id_3126">
+      <labelGe>Adventure</labelGe>
+    </genre>
+    <genre genreId="id_3491">
+      <labelGe>Action</labelGe>
+    </genre>
+  </list_genres>
+  <liste_mots_cles>
+    <motCle motCleId="id_3029">
+      <labelMc>train</labelMc>
+    </motCle>
+    <motCle motCleId="id_3114">
+      <labelMc>fabergé-egg</labelMc>
+    </motCle>
+    <motCle motCleId="id_3100">
+      <labelMc>dutch-eastindian-company</labelMc>
+    </motCle>
+    <motCle motCleId="id_3063">
+      <labelMc>jewelry-store</labelMc>
+    </motCle>
+    <motCle motCleId="id_3051">
+      <labelMc>cockney</labelMc>
+    </motCle>
+    <motCle motCleId="id_3058">
+      <labelMc>cameo-appearance</labelMc>
+    </motCle>
+    <motCle motCleId="id_3075">
+      <labelMc>punctuation-in-title</labelMc>
+    </motCle>
+    <motCle motCleId="id_3095">
+      <labelMc>2000s</labelMc>
+    </motCle>
+    <motCle motCleId="id_3083">
+      <labelMc>night-club-comic</labelMc>
+    </motCle>
+    <motCle motCleId="id_3103">
+      <labelMc>funeral</labelMc>
+    </motCle>
+    <motCle motCleId="id_3123">
+      <labelMc>sequel-to-remake</labelMc>
+    </motCle>
+    <motCle motCleId="id_3066">
+      <labelMc>pregnancy</labelMc>
+    </motCle>
+    <motCle motCleId="id_3120">
+      <labelMc>cameo</labelMc>
+    </motCle>
+    <motCle motCleId="id_3112">
+      <labelMc>sarcasm</labelMc>
+    </motCle>
+    <motCle motCleId="id_3033">
+      <labelMc>black-and-white-segues-into-color</labelMc>
+    </motCle>
+    <motCle motCleId="id_3073">
+      <labelMc>cockney-accent</labelMc>
+    </motCle>
+    <motCle motCleId="id_3094">
+      <labelMc>american</labelMc>
+    </motCle>
+    <motCle motCleId="id_3105">
+      <labelMc>reference-to-emily-dickinson</labelMc>
+    </motCle>
+    <motCle motCleId="id_3080">
+      <labelMc>actor-playing-himself</labelMc>
+    </motCle>
+    <motCle motCleId="id_3119">
+      <labelMc>art-theft</labelMc>
+    </motCle>
+    <motCle motCleId="id_3082">
+      <labelMc>capoeira</labelMc>
+    </motCle>
+    <motCle motCleId="id_3081">
+      <labelMc>nonlinear-timeline</labelMc>
+    </motCle>
+    <motCle motCleId="id_3097">
+      <labelMc>thief</labelMc>
+    </motCle>
+    <motCle motCleId="id_3040">
+      <labelMc>revenge</labelMc>
+    </motCle>
+    <motCle motCleId="id_3030">
+      <labelMc>lake-como</labelMc>
+    </motCle>
+    <motCle motCleId="id_3111">
+      <labelMc>big-con</labelMc>
+    </motCle>
+    <motCle motCleId="id_3068">
+      <labelMc>master-thief</labelMc>
+    </motCle>
+    <motCle motCleId="id_3070">
+      <labelMc>reference-to-dennis-quaid</labelMc>
+    </motCle>
+    <motCle motCleId="id_3045">
+      <labelMc>in-joke</labelMc>
+    </motCle>
+    <motCle motCleId="id_3041">
+      <labelMc>retired</labelMc>
+    </motCle>
+    <motCle motCleId="id_3078">
+      <labelMc>director-also-cinematographer</labelMc>
+    </motCle>
+    <motCle motCleId="id_3032">
+      <labelMc>con-man</labelMc>
+    </motCle>
+    <motCle motCleId="id_3031">
+      <labelMc>rome-italy</labelMc>
+    </motCle>
+    <motCle motCleId="id_3048">
+      <labelMc>sequel</labelMc>
+    </motCle>
+    <motCle motCleId="id_3024">
+      <labelMc>bank</labelMc>
+    </motCle>
+    <motCle motCleId="id_3023">
+      <labelMc>number-in-title</labelMc>
+    </motCle>
+    <motCle motCleId="id_3085">
+      <labelMc>coffee-shop</labelMc>
+    </motCle>
+    <motCle motCleId="id_3037">
+      <labelMc>agoraphobia</labelMc>
+    </motCle>
+    <motCle motCleId="id_3110">
+      <labelMc>jumping-on-a-bed</labelMc>
+    </motCle>
+    <motCle motCleId="id_3090">
+      <labelMc>forged-signature</labelMc>
+    </motCle>
+    <motCle motCleId="id_3088">
+      <labelMc>malapropism</labelMc>
+    </motCle>
+    <motCle motCleId="id_3055">
+      <labelMc>criminal-mastermind</labelMc>
+    </motCle>
+    <motCle motCleId="id_3089">
+      <labelMc>autograph</labelMc>
+    </motCle>
+    <motCle motCleId="id_3021">
+      <labelMc>car-explosion</labelMc>
+    </motCle>
+    <motCle motCleId="id_3035">
+      <labelMc>second-in-trilogy</labelMc>
+    </motCle>
+    <motCle motCleId="id_3079">
+      <labelMc>second-part</labelMc>
+    </motCle>
+    <motCle motCleId="id_3087">
+      <labelMc>interrogation</labelMc>
+    </motCle>
+    <motCle motCleId="id_3036">
+      <labelMc>palm-reader</labelMc>
+    </motCle>
+    <motCle motCleId="id_3046">
+      <labelMc>multiple-perspectives</labelMc>
+    </motCle>
+    <motCle motCleId="id_3101">
+      <labelMc>new-orleans-louisiana</labelMc>
+    </motCle>
+    <motCle motCleId="id_3061">
+      <labelMc>actress-playing-herself</labelMc>
+    </motCle>
+    <motCle motCleId="id_3059">
+      <labelMc>canal</labelMc>
+    </motCle>
+    <motCle motCleId="id_3136">
+      <labelMc>africa</labelMc>
+    </motCle>
+    <motCle motCleId="id_3322">
+      <labelMc>bare-chested-male-bondage</labelMc>
+    </motCle>
+    <motCle motCleId="id_3152">
+      <labelMc>passport</labelMc>
+    </motCle>
+    <motCle motCleId="id_3282">
+      <labelMc>silencer</labelMc>
+    </motCle>
+    <motCle motCleId="id_3235">
+      <labelMc>hotel-receptionist</labelMc>
+    </motCle>
+    <motCle motCleId="id_3298">
+      <labelMc>snake</labelMc>
+    </motCle>
+    <motCle motCleId="id_3253">
+      <labelMc>shootout</labelMc>
+    </motCle>
+    <motCle motCleId="id_3217">
+      <labelMc>casino</labelMc>
+    </motCle>
+    <motCle motCleId="id_3242">
+      <labelMc>returning-character-with-different-actor</labelMc>
+    </motCle>
+    <motCle motCleId="id_3239">
+      <labelMc>money</labelMc>
+    </motCle>
+    <motCle motCleId="id_3184">
+      <labelMc>shot-in-the-eye</labelMc>
+    </motCle>
+    <motCle motCleId="id_3326">
+      <labelMc>lifting-male-in-air</labelMc>
+    </motCle>
+    <motCle motCleId="id_3248">
+      <labelMc>police-officer</labelMc>
+    </motCle>
+    <motCle motCleId="id_3193">
+      <labelMc>trapped-in-an-elevator</labelMc>
+    </motCle>
+    <motCle motCleId="id_3164">
+      <labelMc>dead-girl</labelMc>
+    </motCle>
+    <motCle motCleId="id_3227">
+      <labelMc>plot-twist</labelMc>
+    </motCle>
+    <motCle motCleId="id_3299">
+      <labelMc>italy</labelMc>
+    </motCle>
+    <motCle motCleId="id_3224">
+      <labelMc>arch-villain</labelMc>
+    </motCle>
+    <motCle motCleId="id_3212">
+      <labelMc>restaurant</labelMc>
+    </motCle>
+    <motCle motCleId="id_3219">
+      <labelMc>tanker</labelMc>
+    </motCle>
+    <motCle motCleId="id_3296">
+      <labelMc>killed-in-an-elevator</labelMc>
+    </motCle>
+    <motCle motCleId="id_3289">
+      <labelMc>drowning</labelMc>
+    </motCle>
+    <motCle motCleId="id_3291">
+      <labelMc>shotgun</labelMc>
+    </motCle>
+    <motCle motCleId="id_3194">
+      <labelMc>computer</labelMc>
+    </motCle>
+    <motCle motCleId="id_3249">
+      <labelMc>blood-on-shirt</labelMc>
+    </motCle>
+    <motCle motCleId="id_3165">
+      <labelMc>fight</labelMc>
+    </motCle>
+    <motCle motCleId="id_3162">
+      <labelMc>cell-phone</labelMc>
+    </motCle>
+    <motCle motCleId="id_3198">
+      <labelMc>shot-in-the-forehead</labelMc>
+    </motCle>
+    <motCle motCleId="id_3251">
+      <labelMc>terrorist-base</labelMc>
+    </motCle>
+    <motCle motCleId="id_3191">
+      <labelMc>martial-arts</labelMc>
+    </motCle>
+    <motCle motCleId="id_3288">
+      <labelMc>hostage</labelMc>
+    </motCle>
+    <motCle motCleId="id_3240">
+      <labelMc>torture</labelMc>
+    </motCle>
+    <motCle motCleId="id_3200">
+      <labelMc>pistol</labelMc>
+    </motCle>
+    <motCle motCleId="id_3280">
+      <labelMc>drugged-drink</labelMc>
+    </motCle>
+    <motCle motCleId="id_3300">
+      <labelMc>eye-patch</labelMc>
+    </motCle>
+    <motCle motCleId="id_3320">
+      <labelMc>stairwell</labelMc>
+    </motCle>
+    <motCle motCleId="id_3228">
+      <labelMc>stabbing</labelMc>
+    </motCle>
+    <motCle motCleId="id_3210">
+      <labelMc>lifting-an-adult-into-the-air</labelMc>
+    </motCle>
+    <motCle motCleId="id_3321">
+      <labelMc>bodyworks</labelMc>
+    </motCle>
+    <motCle motCleId="id_3196">
+      <labelMc>cia-agent</labelMc>
+    </motCle>
+    <motCle motCleId="id_3306">
+      <labelMc>airplane</labelMc>
+    </motCle>
+    <motCle motCleId="id_3257">
+      <labelMc>gambling-syndicate</labelMc>
+    </motCle>
+    <motCle motCleId="id_3293">
+      <labelMc>surveillance</labelMc>
+    </motCle>
+    <motCle motCleId="id_3264">
+      <labelMc>sequel</labelMc>
+    </motCle>
+    <motCle motCleId="id_3283">
+      <labelMc>car-accident</labelMc>
+    </motCle>
+    <motCle motCleId="id_3183">
+      <labelMc>psychopath</labelMc>
+    </motCle>
+    <motCle motCleId="id_3160">
+      <labelMc>lost-love</labelMc>
+    </motCle>
+    <motCle motCleId="id_3221">
+      <labelMc>police-car</labelMc>
+    </motCle>
+    <motCle motCleId="id_3308">
+      <labelMc>hotel</labelMc>
+    </motCle>
+    <motCle motCleId="id_3147">
+      <labelMc>title-spoken-by-character</labelMc>
+    </motCle>
+    <motCle motCleId="id_3317">
+      <labelMc>airport</labelMc>
+    </motCle>
+    <motCle motCleId="id_3139">
+      <labelMc>parkour</labelMc>
+    </motCle>
+    <motCle motCleId="id_3205">
+      <labelMc>double-cross</labelMc>
+    </motCle>
+    <motCle motCleId="id_3144">
+      <labelMc>poison</labelMc>
+    </motCle>
+    <motCle motCleId="id_3256">
+      <labelMc>penumbra</labelMc>
+    </motCle>
+    <motCle motCleId="id_3231">
+      <labelMc>montenegro</labelMc>
+    </motCle>
+    <motCle motCleId="id_3276">
+      <labelMc>infidelity</labelMc>
+    </motCle>
+    <motCle motCleId="id_3135">
+      <labelMc>hit-in-the-crotch</labelMc>
+    </motCle>
+    <motCle motCleId="id_3209">
+      <labelMc>banker</labelMc>
+    </motCle>
+    <motCle motCleId="id_3199">
+      <labelMc>army</labelMc>
+    </motCle>
+    <motCle motCleId="id_3230">
+      <labelMc>lagoon</labelMc>
+    </motCle>
+    <motCle motCleId="id_3233">
+      <labelMc>beating</labelMc>
+    </motCle>
+    <motCle motCleId="id_3302">
+      <labelMc>video-camera</labelMc>
+    </motCle>
+    <motCle motCleId="id_3261">
+      <labelMc>explosion</labelMc>
+    </motCle>
+    <motCle motCleId="id_3159">
+      <labelMc>machine-gun</labelMc>
+    </motCle>
+    <motCle motCleId="id_3142">
+      <labelMc>sailing-boat</labelMc>
+    </motCle>
+    <motCle motCleId="id_3170">
+      <labelMc>secret-service</labelMc>
+    </motCle>
+    <motCle motCleId="id_3197">
+      <labelMc>laptop-computer</labelMc>
+    </motCle>
+    <motCle motCleId="id_3252">
+      <labelMc>newspaper-headline</labelMc>
+    </motCle>
+    <motCle motCleId="id_3260">
+      <labelMc>jungle</labelMc>
+    </motCle>
+    <motCle motCleId="id_3255">
+      <labelMc>nassau-bahamas</labelMc>
+    </motCle>
+    <motCle motCleId="id_3202">
+      <labelMc>death</labelMc>
+    </motCle>
+    <motCle motCleId="id_3179">
+      <labelMc>police-arrest</labelMc>
+    </motCle>
+    <motCle motCleId="id_3214">
+      <labelMc>beach-resort</labelMc>
+    </motCle>
+    <motCle motCleId="id_3156">
+      <labelMc>poker-the-card-game</labelMc>
+    </motCle>
+    <motCle motCleId="id_3318">
+      <labelMc>electrocution</labelMc>
+    </motCle>
+    <motCle motCleId="id_3180">
+      <labelMc>chase</labelMc>
+    </motCle>
+    <motCle motCleId="id_3267">
+      <labelMc>murder-by-gunshot</labelMc>
+    </motCle>
+    <motCle motCleId="id_3189">
+      <labelMc>venice-italy</labelMc>
+    </motCle>
+    <motCle motCleId="id_3186">
+      <labelMc>official-james-bond-series</labelMc>
+    </motCle>
+    <motCle motCleId="id_3287">
+      <labelMc>henchman</labelMc>
+    </motCle>
+    <motCle motCleId="id_3146">
+      <labelMc>shower</labelMc>
+    </motCle>
+    <motCle motCleId="id_3129">
+      <labelMc>secret-device</labelMc>
+    </motCle>
+    <motCle motCleId="id_3310">
+      <labelMc>siren</labelMc>
+    </motCle>
+    <motCle motCleId="id_3161">
+      <labelMc>flood</labelMc>
+    </motCle>
+    <motCle motCleId="id_3148">
+      <labelMc>money-laundering</labelMc>
+    </motCle>
+    <motCle motCleId="id_3268">
+      <labelMc>animated-credits</labelMc>
+    </motCle>
+    <motCle motCleId="id_3258">
+      <labelMc>body-bag</labelMc>
+    </motCle>
+    <motCle motCleId="id_3134">
+      <labelMc>british-secret-service</labelMc>
+    </motCle>
+    <motCle motCleId="id_3313">
+      <labelMc>sequel-mentioned-during-end-credits</labelMc>
+    </motCle>
+    <motCle motCleId="id_3245">
+      <labelMc>crushed-to-death</labelMc>
+    </motCle>
+    <motCle motCleId="id_3266">
+      <labelMc>uganda</labelMc>
+    </motCle>
+    <motCle motCleId="id_3155">
+      <labelMc>balisong</labelMc>
+    </motCle>
+    <motCle motCleId="id_3163">
+      <labelMc>yacht</labelMc>
+    </motCle>
+    <motCle motCleId="id_3305">
+      <labelMc>building-collapse</labelMc>
+    </motCle>
+    <motCle motCleId="id_3138">
+      <labelMc>altered-version-of-studio-logo</labelMc>
+    </motCle>
+    <motCle motCleId="id_3174">
+      <labelMc>village</labelMc>
+    </motCle>
+    <motCle motCleId="id_3169">
+      <labelMc>exploding-body</labelMc>
+    </motCle>
+    <motCle motCleId="id_3131">
+      <labelMc>south-africa</labelMc>
+    </motCle>
+    <motCle motCleId="id_3303">
+      <labelMc>swimming</labelMc>
+    </motCle>
+    <motCle motCleId="id_3309">
+      <labelMc>strangulation</labelMc>
+    </motCle>
+    <motCle motCleId="id_3576">
+      <labelMc>good-versus-evil</labelMc>
+    </motCle>
+    <motCle motCleId="id_3685">
+      <labelMc>villainess</labelMc>
+    </motCle>
+    <motCle motCleId="id_3640">
+      <labelMc>ejection-seat</labelMc>
+    </motCle>
+    <motCle motCleId="id_3532">
+      <labelMc>action-hero</labelMc>
+    </motCle>
+    <motCle motCleId="id_3608">
+      <labelMc>helicopter</labelMc>
+    </motCle>
+    <motCle motCleId="id_3659">
+      <labelMc>partner</labelMc>
+    </motCle>
+    <motCle motCleId="id_3534">
+      <labelMc>wheelchair</labelMc>
+    </motCle>
+    <motCle motCleId="id_3634">
+      <labelMc>fist-fight</labelMc>
+    </motCle>
+    <motCle motCleId="id_3602">
+      <labelMc>blood</labelMc>
+    </motCle>
+    <motCle motCleId="id_3500">
+      <labelMc>internet</labelMc>
+    </motCle>
+    <motCle motCleId="id_3541">
+      <labelMc>mercenary</labelMc>
+    </motCle>
+    <motCle motCleId="id_3519">
+      <labelMc>general</labelMc>
+    </motCle>
+    <motCle motCleId="id_3644">
+      <labelMc>gun-battle</labelMc>
+    </motCle>
+    <motCle motCleId="id_3551">
+      <labelMc>gadgetry</labelMc>
+    </motCle>
+    <motCle motCleId="id_3613">
+      <labelMc>casino-card-game</labelMc>
+    </motCle>
+    <motCle motCleId="id_3565">
+      <labelMc>one-word-title</labelMc>
+    </motCle>
+    <motCle motCleId="id_3606">
+      <labelMc>post-cold-war</labelMc>
+    </motCle>
+    <motCle motCleId="id_3684">
+      <labelMc>laser-cutter</labelMc>
+    </motCle>
+    <motCle motCleId="id_3682">
+      <labelMc>evil-plot</labelMc>
+    </motCle>
+    <motCle motCleId="id_3673">
+      <labelMc>russian</labelMc>
+    </motCle>
+    <motCle motCleId="id_3525">
+      <labelMc>title-spoken-by-character</labelMc>
+    </motCle>
+    <motCle motCleId="id_3543">
+      <labelMc>museum</labelMc>
+    </motCle>
+    <motCle motCleId="id_3526">
+      <labelMc>see-you-in-hell</labelMc>
+    </motCle>
+    <motCle motCleId="id_3677">
+      <labelMc>gun-duel</labelMc>
+    </motCle>
+    <motCle motCleId="id_3605">
+      <labelMc>cuba</labelMc>
+    </motCle>
+    <motCle motCleId="id_3583">
+      <labelMc>murder</labelMc>
+    </motCle>
+    <motCle motCleId="id_3666">
+      <labelMc>year-1986</labelMc>
+    </motCle>
+    <motCle motCleId="id_3597">
+      <labelMc>shot-to-death</labelMc>
+    </motCle>
+    <motCle motCleId="id_3498">
+      <labelMc>intelligence</labelMc>
+    </motCle>
+    <motCle motCleId="id_3667">
+      <labelMc>motorcycle-stunt</labelMc>
+    </motCle>
+    <motCle motCleId="id_3591">
+      <labelMc>year-1995</labelMc>
+    </motCle>
+    <motCle motCleId="id_3542">
+      <labelMc>reverse-footage</labelMc>
+    </motCle>
+    <motCle motCleId="id_3654">
+      <labelMc>head-butt</labelMc>
+    </motCle>
+    <motCle motCleId="id_3592">
+      <labelMc>held-at-gunpoint</labelMc>
+    </motCle>
+    <motCle motCleId="id_3512">
+      <labelMc>terrorist</labelMc>
+    </motCle>
+    <motCle motCleId="id_3529">
+      <labelMc>violence</labelMc>
+    </motCle>
+    <motCle motCleId="id_3577">
+      <labelMc>gangster</labelMc>
+    </motCle>
+    <motCle motCleId="id_3536">
+      <labelMc>sequel</labelMc>
+    </motCle>
+    <motCle motCleId="id_3625">
+      <labelMc>grenade</labelMc>
+    </motCle>
+    <motCle motCleId="id_3557">
+      <labelMc>boat</labelMc>
+    </motCle>
+    <motCle motCleId="id_3688">
+      <labelMc>satellite-dish</labelMc>
+    </motCle>
+    <motCle motCleId="id_3680">
+      <labelMc>reboot-of-series</labelMc>
+    </motCle>
+    <motCle motCleId="id_3622">
+      <labelMc>jungle</labelMc>
+    </motCle>
+    <motCle motCleId="id_3578">
+      <labelMc>bullet-time</labelMc>
+    </motCle>
+    <motCle motCleId="id_3616">
+      <labelMc>strangulation</labelMc>
+    </motCle>
+    <motCle motCleId="id_3646">
+      <labelMc>british</labelMc>
+    </motCle>
+    <motCle motCleId="id_3610">
+      <labelMc>secret-agent</labelMc>
+    </motCle>
+    <motCle motCleId="id_3523">
+      <labelMc>pistol</labelMc>
+    </motCle>
+    <motCle motCleId="id_3580">
+      <labelMc>megalomaniac</labelMc>
+    </motCle>
+    <motCle motCleId="id_3604">
+      <labelMc>silencer</labelMc>
+    </motCle>
+    <motCle motCleId="id_3510">
+      <labelMc>dominant-woman</labelMc>
+    </motCle>
+    <motCle motCleId="id_3599">
+      <labelMc>loss-of-friend</labelMc>
+    </motCle>
+    <motCle motCleId="id_3502">
+      <labelMc>shot-in-the-foot</labelMc>
+    </motCle>
+    <motCle motCleId="id_3545">
+      <labelMc>woman-with-a-gun</labelMc>
+    </motCle>
+    <motCle motCleId="id_3623">
+      <labelMc>intelligence-agent</labelMc>
+    </motCle>
+    <motCle motCleId="id_3581">
+      <labelMc>spy-mission</labelMc>
+    </motCle>
+    <motCle motCleId="id_3504">
+      <labelMc>shot-in-the-chest</labelMc>
+    </motCle>
+    <motCle motCleId="id_3586">
+      <labelMc>plane-crash</labelMc>
+    </motCle>
+    <motCle motCleId="id_3629">
+      <labelMc>british-intelligence</labelMc>
+    </motCle>
+    <motCle motCleId="id_3535">
+      <labelMc>machine-gun</labelMc>
+    </motCle>
+    <motCle motCleId="id_3509">
+      <labelMc>high-tech</labelMc>
+    </motCle>
+    <motCle motCleId="id_3584">
+      <labelMc>seventeenth-part</labelMc>
+    </motCle>
+    <motCle motCleId="id_3668">
+      <labelMc>missile</labelMc>
+    </motCle>
+    <motCle motCleId="id_3515">
+      <labelMc>shot-in-the-forehead</labelMc>
+    </motCle>
+    <motCle motCleId="id_3628">
+      <labelMc>trap</labelMc>
+    </motCle>
+    <motCle motCleId="id_3607">
+      <labelMc>russia</labelMc>
+    </motCle>
+    <motCle motCleId="id_3671">
+      <labelMc>casino</labelMc>
+    </motCle>
+    <motCle motCleId="id_3670">
+      <labelMc>female-assassin</labelMc>
+    </motCle>
+    <motCle motCleId="id_3518">
+      <labelMc>kidnapping</labelMc>
+    </motCle>
+    <motCle motCleId="id_3676">
+      <labelMc>1990s</labelMc>
+    </motCle>
+    <motCle motCleId="id_3615">
+      <labelMc>one-man-army</labelMc>
+    </motCle>
+    <motCle motCleId="id_3588">
+      <labelMc>computer</labelMc>
+    </motCle>
+    <motCle motCleId="id_3600">
+      <labelMc>cult-film</labelMc>
+    </motCle>
+    <motCle motCleId="id_3516">
+      <labelMc>secret-service-agent</labelMc>
+    </motCle>
+    <motCle motCleId="id_3658">
+      <labelMc>cemetery</labelMc>
+    </motCle>
+    <motCle motCleId="id_3657">
+      <labelMc>motorcycle</labelMc>
+    </motCle>
+    <motCle motCleId="id_3624">
+      <labelMc>cult-figure</labelMc>
+    </motCle>
+    <motCle motCleId="id_3499">
+      <labelMc>death</labelMc>
+    </motCle>
+    <motCle motCleId="id_3609">
+      <labelMc>falling-from-height</labelMc>
+    </motCle>
+    <motCle motCleId="id_3573">
+      <labelMc>timebomb</labelMc>
+    </motCle>
+    <motCle motCleId="id_3618">
+      <labelMc>sadist</labelMc>
+    </motCle>
+    <motCle motCleId="id_3596">
+      <labelMc>research-station</labelMc>
+    </motCle>
+    <motCle motCleId="id_3579">
+      <labelMc>bungee-jump</labelMc>
+    </motCle>
+    <motCle motCleId="id_3549">
+      <labelMc>lifting-a-female-into-the-air</labelMc>
+    </motCle>
+    <motCle motCleId="id_3647">
+      <labelMc>hero-killing-woman</labelMc>
+    </motCle>
+    <motCle motCleId="id_3574">
+      <labelMc>organized-crime</labelMc>
+    </motCle>
+    <motCle motCleId="id_3635">
+      <labelMc>beach</labelMc>
+    </motCle>
+    <motCle motCleId="id_3567">
+      <labelMc>rogue-agent</labelMc>
+    </motCle>
+    <motCle motCleId="id_3645">
+      <labelMc>electro-magnetic-pulse</labelMc>
+    </motCle>
+    <motCle motCleId="id_3585">
+      <labelMc>gadget-car</labelMc>
+    </motCle>
+    <motCle motCleId="id_3601">
+      <labelMc>shot-in-the-back</labelMc>
+    </motCle>
+    <motCle motCleId="id_3538">
+      <labelMc>st.-petersburg-russia</labelMc>
+    </motCle>
+    <motCle motCleId="id_3598">
+      <labelMc>train</labelMc>
+    </motCle>
+    <motCle motCleId="id_3686">
+      <labelMc>showdown</labelMc>
+    </motCle>
+    <motCle motCleId="id_3664">
+      <labelMc>gadget</labelMc>
+    </motCle>
+    <motCle motCleId="id_3639">
+      <labelMc>aston-martin</labelMc>
+    </motCle>
+    <motCle motCleId="id_3566">
+      <labelMc>assassin</labelMc>
+    </motCle>
+    <motCle motCleId="id_3690">
+      <labelMc>elevator</labelMc>
+    </motCle>
+  </liste_mots_cles>
+</plex>

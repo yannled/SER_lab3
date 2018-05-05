@@ -1,0 +1,32 @@
+{
+  "type": "object",
+  "properties": {
+    "Projections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "TitreFilm": {
+            "type": "string"
+          },
+          "DateProjection": {
+            "type": "string",
+            "pattern": "^[0-9]{2}-[0-9]{2}-[0-9]{4}$"
+          },
+          "Acteurs": {
+            "type": "object",
+            "properties": {
+              "1er Role": {
+                "type": "string"
+              },
+              "2eme Role": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
